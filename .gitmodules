@@ -1,6 +1,8 @@
 [submodule "demo-core"]
 	path = demo-core
 	url = https://github.com/gigiyy/demo-core
+	branch = main
 [submodule "demo-common"]
 	path = demo-common
 	url = https://github.com/gigiyy/demo-common
+	branch = main
