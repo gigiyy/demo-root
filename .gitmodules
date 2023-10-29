@@ -1,0 +1,6 @@
+[submodule "demo-core"]
+	path = demo-core
+	url = https://github.com/gigiyy/demo-core
+[submodule "demo-common"]
+	path = demo-common
+	url = https://github.com/gigiyy/demo-common
